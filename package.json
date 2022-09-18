@@ -1,0 +1,14 @@
+{
+  "name": "prompto-main",
+  "version": "1.0.0",
+  "description": "Generates creative prompts and phrases to inspire your artistic mind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cohere-ai": "^4.3.0"
+  }
+}
